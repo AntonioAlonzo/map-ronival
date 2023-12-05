@@ -11,7 +11,7 @@ function DevelopmentModal({
       dismissible
       position={"center-left"}
       show={showDetailWindow}
-      size="md"
+      size="sm"
       className=" border-r-0"
       onClose={() => setShowDetailWindow(false)}
     >
